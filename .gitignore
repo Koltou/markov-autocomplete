@@ -1,0 +1,10 @@
+.vscode
+build
+build_eigen
+scripts
+data/Messages
+data/duster_corpus.txt
+icudt78.dll
+icuin78.dll
+icuuc78.dll
+markov_autocomplete.exe
