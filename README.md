@@ -2,6 +2,8 @@
 
 **Author:** Antoine Koltou
 
+![Markov Auto-complete](markov_autocomplete_T1HOjPfFch.png)
+
 ## Presentation 
 
 Andreï Markov was a pretty smart guy. I would personally consider him one of the fathers of modern Bayesian statistics, even though he never claimed to be one in his life.
