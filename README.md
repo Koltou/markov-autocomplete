@@ -218,6 +218,9 @@ So how do we fix this?
 
 * **Using another type of model:** well, typically, that would be the best choice. Markov models are really "stochastic parrots". They only repeat what they once saw, and they have no understanding of lexical laws. One type of model which is pretty popular, and which you **probably** heard of, is LLMs. I might implement one from scratch another day. But those models are way better at those tasks because they have a concrete lexical understanding.
 
+
+By the way, i want to share one of my realisation, this is probably one of the easiest implementation i've ever made in all the models i've already implemented, but yet it's one of the most powerful.
+
 ---
 
 ## Additional Note 
