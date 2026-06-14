@@ -6,6 +6,8 @@
 
 ## Presentation 
 
+This project is a re-creation of a next-word predictor you can typically see on your phone when you type text.
+
 Andreï Markov was a pretty smart guy. I would personally consider him one of the fathers of modern Bayesian statistics, even though he never claimed to be one in his life.
 
 To make it short, most of the probability that people used to do back at the beginning of the 20th century was frequentist statistics. Some even claimed that since we could observe the law of large numbers, this was surely proof of free will and of God's existence (Hi Nekrasov).
