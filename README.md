@@ -2,7 +2,7 @@
 
 **Author:** Antoine Koltou
 
-![Markov Auto-complete](markov_autocomplete_T1HOjPfFch.png)
+![Markov Auto-complete](markov_autocomplete_WcMbzSXeWp.png)
 
 ## Presentation 
 
