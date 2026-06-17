@@ -69,7 +69,7 @@ $$
 If you draw a blue ball, for example, this event directly changes the probabilities of the next ball, which become:
 
 $$
-P(\text{Red}) = 0.55555\ldots, \quad P(\text{Blue}) = 0.44444\ldots
+P(\text{Red}) = 0.666666\ldots, \quad P(\text{Blue}) = 0.44444\ldots
 $$
 
 The event you experienced has a direct influence on the next event.
